@@ -1,5 +1,5 @@
 <?php
         for($i=0;$i<10;$i++){
-        echo "HOLA  jeje $i<br>";
+        echo "HOLA  CLASE LOS EXTRAÑO :( $i<br>";
         }
 ?>

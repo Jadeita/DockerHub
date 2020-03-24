@@ -6,7 +6,14 @@
 </head>
 
 <div class="">
-  <body background="https://lh5.googleusercontent.com/ZpLXxoayYZCBKk7GXMLC-K_QD7S-B4IjcatPQdmPHsTGuK0tlUJ6jbv9heZz2hEz0a__AfhPxQF1DbwoeEb4vEfoPNXgMoZHZwkeqjmDR4uVZqaxQKYv=w1280">
+  <body >
+  <font color="#FEAEE2" size="10" face="monospace">
+<h1>Titular de tamaño h1 </h1>
+<h2>Titular de tamaño h2</h2>
+<h3>Titular de tamaño h3</h3>
+<h4>Titular de tamaño h4</h4>
+<h5>Titular de tamaño h5</h5>
+<h6>Titular de tamaño h6</h6>
 
   </body>
 </div>

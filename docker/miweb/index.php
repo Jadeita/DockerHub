@@ -5,7 +5,7 @@
 	<meta charset="utf-8">
 </head>
 
-<body background="<?php echo base_url(); ?>imagenes/imagen1.png">
+<body background="imagenes/imagen1.png">
 
 </body>
 

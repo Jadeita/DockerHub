@@ -1,5 +1,5 @@
 <?php
-        
-        echo "Buenos días amigos :) ";
-        
+
+        echo "Hola heyner :) ";
+
 ?>

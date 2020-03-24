@@ -4,7 +4,7 @@
 	<title> WebServices </title>
 	<meta charset="utf-8">
 </head>
-<body background="<?php echo base_url(); ?>imagenes/imagen1.png">
+<body background="https://www.solofondos.com/wp-content/uploads/2015/11/fondo-celeste-oscuro-6269.jpg">
   <font color="#FEAEE2" size="5" >
   <center>
 <h1>Titular de tamaño h1 </h1>
